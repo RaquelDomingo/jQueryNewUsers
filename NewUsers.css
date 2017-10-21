@@ -1,0 +1,23 @@
+*{
+
+}
+/*.wrapper{
+  background-color: gray;
+}*/
+table{
+  border: 2px solid black;
+}
+tr, th{
+  width: 150px;
+  height: 20px;
+  text-align: center;
+}
+.val{
+  width: 400px;
+  height: 100px;
+  text-align: right;
+}
+#adduser{
+  padding: 5px 5px 5px 5px;
+  margin: 5px 5px 5px 5px;
+}
